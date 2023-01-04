@@ -1,6 +1,5 @@
 /*
- * Course: CS215-00x
- * Project: Lab 11 (for the purpose of testing Player class)
+ * Author: Adrian Treadwell
  * Purpose: Testing the definition of Player class.
  *          First, it creates 52 cards on deck (no shuffle)
  *          Second, it deals 26 cards for one player: testPlayer (another 26 cards are put on the pile at table)
