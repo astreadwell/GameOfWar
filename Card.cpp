@@ -1,8 +1,5 @@
-/* File: Card.cpp
- * Course: CS215-00x
- * Project: Project 3
+/* Author: Adrian Treadwell
  * Purpose: the implementation of member functions for the Card class.
- * Author: (your name)
  */
 #include <sstream>
 #include <iomanip>
