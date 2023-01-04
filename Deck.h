@@ -1,8 +1,5 @@
-/* File: Deck.h
- * Course: CS215-00x
- * Project: Project 3
+/* Author: Adrian Treadwell
  * Purpose: the declaration for the Deck class.
- *** DO NOT CHANGE THIS FILE ***
  *
  */
 #ifndef DECK_H
