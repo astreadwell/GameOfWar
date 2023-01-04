@@ -1,6 +1,4 @@
-/* File: Deck.cpp
- * Course: CS215-00x
- * Project: Project 3
+/* Author: Adrian Treadwell
  * Purpose: the implementation of member functions for the Deck class.
  *
  */
